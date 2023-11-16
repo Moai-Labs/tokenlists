@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-14T18:59:33.760Z",
+    "timestamp": "2023-11-16T15:10:43.090Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6500,6 +6500,13 @@
             "decimals": 18
         },
         {
+            "chainId": 5,
+            "address": "0x03bedb30E61fEb6AF8AD0eDDa1131Bfb1b0AD9F7",
+            "name": "USDH Tether Token",
+            "symbol": "USDHT",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -10967,7 +10974,8 @@
             "address": "0xDD4AB36f31891fF25A69121FCCC732d93eB976Dd",
             "name": "Prime",
             "symbol": "D2D",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdd4ab36f31891ff25a69121fccc732d93eb976dd.png"
         },
         {
             "chainId": 42161,
